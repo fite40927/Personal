@@ -31,7 +31,7 @@ Built outline for website using bootstrap. Incorportated Google Analytics API to
 
 **RoboMagellan Team:**
 
-Programmed an RC car to autonomously navigate and find items in an urban environment. Used an AI program, called You Only Look Once (YOLO), for object recognition, a Lidar for obstacle avoidance, and GPS/compass data for navigating through the course. Chassis and motor controller were from Traxxas, but we replaced the motor that came with the kit with a more powerful one.
+Programmed an RC car to autonomously navigate and find items in an urban environment. Used an AI program, called You Only Look Once (YOLO), for object recognition, a Lidar for obstacle avoidance, and GPS/compass data for navigating through the course. Chassis and motor controller were from Traxxas, but we replaced the motor that came with the kit with a more powerful one. Almost everything was programmed in python.
 
 
 Technical Experience
