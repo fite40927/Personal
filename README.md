@@ -1,12 +1,9 @@
 # Apsara Fite
 
--------------------     ----------------------------
 
-485 Boundary Oak Way, Walnut Creek, CA 94598
+[LinkedIn](https://www.linkedin.com/in/apsara-fite/)
 
 apsarajf@gmail.com
-
-(925)286-0249
 
 -------------------     ----------------------------
 
