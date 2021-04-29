@@ -30,6 +30,12 @@ Built outline for website using bootstrap. Incorportated Google Analytics API to
 
 Programmed an RC car to autonomously navigate and find items in an urban environment. Used an AI program, called You Only Look Once (YOLO), for object recognition, a Lidar for obstacle avoidance, and GPS/compass data for navigating through the course. Chassis and motor controller were from Traxxas, but we replaced the motor that came with the kit with a more powerful one. Almost everything was programmed in python.
 
+**Summer Java Instructor**
+
+Taught Java to teachers at a school in Siem Reap, funded by Caring For Cambodia. Crash-course on basic coding and a little bit of object-oriented programming. Developed a website that they and their students could use as a resource to continue learning after I left. Additionally I managed to raise $1000 for the school's engineering program.
+
+* [Buddha IT](https://www.buddhait.org).
+
 
 Technical Experience
 --------------------
@@ -71,6 +77,3 @@ Other things
 
      * English (native)
      * Chinese (8 years)
-
-* Taught Java to teachers in Cambodia. Also raised $1000
-  for their engineering program 
